@@ -2,7 +2,7 @@
 
 - **dart_report_crawler.ipy**
 
-DART (전자공시) 에서 KOSPI 상장사의
+*DART (전자공시) 에서 KOSPI 상장사의
 
 사업보고서를 크롤링 하는 크롤러 제작
 
