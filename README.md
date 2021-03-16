@@ -1,6 +1,6 @@
 # DART_Report
 
-**dart_report_crawler.ipy**
+- **dart_report_crawler.ipy**
 
 DART (전자공시) 에서 KOSPI 상장사의
 
@@ -10,7 +10,8 @@ DART (전자공시) 에서 KOSPI 상장사의
 
 보고서 항목은 10개로 분류
 
-**table_parser_CEO_CFO.py**
+
+- **table_parser_CEO_CFO.py**
 
 크롤링해서 저장된 보고서 내용 중
 
